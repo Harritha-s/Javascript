@@ -1,0 +1,42 @@
+
+
+#btn {
+    background-color: rgb(197, 32, 120);
+}
+
+.display-box {
+    height: 65%;
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(140, 204, 222);
+    font-family: 'Times New Roman', Times, serif;
+    border: solid black 0.5px;
+    color: white;
+    font-size: large;
+}
+
+.calculator {
+    padding: 10px;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+
+}
+
+input[type = button] {
+    background-color: rgb(234, 135, 37);
+    height: 70%;
+    width: 100%;
+    border-radius: 5px;
+    border: solid black0.5px;
+    color: white;
+    font-size: large;
+}
+
+body {
+    background-color: rgb(218, 222, 208);
+}
+
+h1 {
+    padding-left: 42%;
+}
